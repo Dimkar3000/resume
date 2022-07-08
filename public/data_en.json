@@ -1,0 +1,97 @@
+{
+  "logo": "logo.png",
+  "name": "Karagiannis Dimitris",
+  "university_title": "Electrical and Computer Engineer",
+  "email": "Dimkar3000@gmail.com",
+  "location": "Greece, Athens",
+  "github_username": "dimkar300",
+  "phone": "******1025",
+  "linkedIn_username": "dimkar3000",
+  "stackoverflow_username": "dimitris-karagiannis",
+  "profile_title": "profile",
+  "profile_content": "Out of the box thinking Software Engineer with experience in multiple technologies. Born in 1996 and loving technology since really young, I aim to learn evrything about technology and build some of my own on the way. Fresh out of university with some work experience so be kind to my resume.😂",
+  "emplyment_title": "Employment History",
+  "emplyment_content": [
+    {
+      "workTitle": "Final Year in Univarsity",
+      "company": "National University of Athens (NTUA)",
+      "from": "2019",
+      "to": "2020",
+      "where": "Athens",
+      "items": [
+        "Spent more than a year working on my diploma theses. I created a fullstack aplications that used <strong>Mapbox</strong> to serve and display energy data that contained associated location information.",
+        "The process of choosing my development stack was simple. I went through most web frameworks available at the time, including React, Vue, Svelte or even plain vanilla JS. I gained experienced writing on all of them and eventually settled on Svelt.",
+        "This was also my first experience with postgresql as a database and that made me love it. It is currently my database of choise"
+      ]
+    },
+    {
+      "workTitle": "Developer",
+      "company": "Progekta",
+      "from": "2018",
+      "to": "2019",
+      "where": "Athens, New Philadeplphia",
+      "items": [
+        "Worked with <strong>C#</strong> on <strong>MVC</strong> projects as a backend / database engineer. The project contained a full  <strong>JSON API</strong> and a <strong>SQL Server</strong> to back it up.",
+        "Worked on a B2B project that served millions of user throught Europe, implementing features like social logins, i18n, new data flows and many more.",
+        "Created an Outlook Extensions that communicated with a server as a fronted for a messaging service",
+        "More random projects like a cui serializer for database data exporting, a GUI that uploaded user provided tickets from a file to <strong>Azure</strong>."
+      ]
+    },
+    {
+      "workTitle": "University Student",
+      "company": "National University of Athens (NTUA)",
+      "from": "2014",
+      "to": "2020",
+      "where": "Athens, Zografou",
+      "items": [
+        "Studied under really talented teachers and got my first expreriences with math physics and software.",
+        "Learned more than a dozen of programming langugeas and gained experience working with low level code in C/C++ or even assembly on IOT platoforms",
+        "Later in these years I was exposed to databases and server code, implementing fullstack system for the more 'advanced' classes that I took"
+      ]
+    }
+  ],
+  "bullet_points": [
+    {
+      "title": "Skills:",
+      "listItems": [
+        "• Backend API Creation",
+        "• Services Integration",
+        "• Web Apps with modern stacks",
+        "• Setting up Databases for any use"
+      ]
+    },
+    {
+      "title": "Languages that I feel proficient in:",
+      "listItems": [
+        "• C#",
+        "• Rust",
+        "• Javascript / Typescript",
+        "• C / C++",
+        "• Python",
+        "• Ruby",
+        "• Dart",
+        "• Ruby"
+      ]
+    },
+    {
+      "title": "Web/Mobile app frameworks that I use",
+      "listItems": [
+        "• React",
+        "• Vue 3",
+        "• Svelte",
+        "• Flutter",
+        "• TailwindCSS",
+        "• Dart"
+      ]
+    },
+    {
+      "title": "Services / Software that I have used in the past for development",
+      "listItems": [
+        "• Postgresql, Sql Server, MariaDB",
+        "• Redis, MongoDB, CosmosDB",
+        "• Azure, AWS, Firebase",
+        "• .NET, EF and more Microsoft technologies"
+      ]
+    }
+  ]
+}

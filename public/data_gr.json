@@ -1,0 +1,96 @@
+{
+  "logo": "logo.png",
+  "name": "Καραγιάννης Δημήτρης",
+  "university_title": "Ηλεκτρολόγος Μηχανικός και Μηχανικός Υπολογιστών",
+  "email": "Dimkar3000@gmail.com",
+  "location": "Ελλάδα, Αθήνα",
+  "github_username": "dimkar300",
+  "phone": "******1025",
+  "linkedIn_username": "dimkar3000",
+  "stackoverflow_username": "dimitris-karagiannis",
+  "profile_title": "Προφίλ",
+  "profile_content": "Είμαι ένας άνθρωπος που σκέφτεται διαφορετικά. Έχοντας αποκτήσει εμπηρία με πολλές διαφορετικές γλώσσες και τεχνολογίες μπορώ πλέον να λείνω προβλήματα γρήγορα και αποδοτικά. Γεννημένος το 1996, ασχολούμαι με υπολογιστές από πολύ μικρή ηλικία, πλέον και επαγκελματικά. Αγαπάω την δουλειά μου και μου αρέσει να νιώθω δημιουργικός, είτε δουλεύοντας πάνω σε κάτι καινούργιο ή συντηρώντας κάτι μεγάλο. Μόλις τελείωσα το πανεπηστήμιο οπότε λυπηθείτε λίγο το βιογραφικό μου.😂",
+  "emplyment_title": "Ιστορικό",
+  "emplyment_content": [
+    {
+      "workTitle": "Τελευταίος χρόνος στο πανεπηστήμιο",
+      "company": "Εθνικό Μετσόβιο Πολυτεχνίο (ΕΜΠ)",
+      "from": "2019",
+      "to": "2020",
+      "where": "Αθήνα, Ζωγράφου",
+      "items": [
+        "Πέρασα πάνω από ένα χρόνο δουλεύοντας στην διπλοματική μου. Δημιούργησα μία fullstack εφαρμογή που χρησιμοποιούσε το <strong>Mapbox</strong> ώστε να αναπαραστήσει δεδομένα ενέργεια μαζί με τις γεωαναφορές τους πάνω σε χάρτη.",
+        "Η διαδικασία επιλογής του dev stack μου ήταν απλή. Τις δοκίμασα όλες (React, Vue, Svelte) και διάλεξα την καλύτερη. Αφού έμαθα πως δουλέυουν όλες οι παραπάνω γράφωντας demo κατέληξα στη Svelte.",
+        "Αυτή ήταν και η πρώτη φορά που χρησιμοποίησα την postgresql ως βάση δεδομένων και από τότε όταν πρέπει να διαλέξω, είναι η πρώτη μου επιλογή."
+      ]
+    },
+    {
+      "workTitle": "Προγραμματιστής",
+      "company": "Progekta",
+      "from": "2018",
+      "to": "2019",
+      "where": "Αθήνα, Νέα Φιλαδέλφεια",
+      "items": [
+        "Το εισγωγικό μου project ήταν ένα full MVC project γραμμένο με <strong>C#</strong> και το <strong>.NET framework</strong>. Το project αποτελούνταν από ένα <strong>JSON API</strong> και ένα <strong>SQL Server</strong> που μαζί θα σέρβιραν δεδομένα σε mobile εφαρμογή.",
+        "Έπειτα δούλεψα σε ένα B2B project που ήταν σχεδιασμένο να σερβίρει δεδομένα σε χρήστες όλης της Ευρώπης, υλοποιώντας features όπως social logins, i18n, καινούργιες ρωές δεδομένων και άλλα πολλά.",
+        "Ένα πολύ ενδιαφέρον project που χειρίστηκα ήταν ένα Outlook Extensions το οποίο θα επικοινωνούσε με το παραπάνω σύστημα ώστε να μπορούν οι πελάτες να το ενσωματώσουν στο work flow τους."
+      ]
+    },
+    {
+      "workTitle": "Φοιτητικά Χρόνια",
+      "company": "Εθνικό Μετσόβιο Πολυτεχνίο (ΕΜΠ)",
+      "from": "2014",
+      "to": "2020",
+      "where": "Αθήνα, Ζωγράφου",
+      "items": [
+        "Studied under really talented teachers and got my first expreriences with math physics and software.",
+        "Learned more than a dozen of programming langugeas and gained experience working with low level code in C/C++ or even assembly on IOT platoforms",
+        "Later in these years I was exposed to databases and server code, implementing fullstack system for the more 'advanced' classes that I took"
+      ]
+    }
+  ],
+  "bullet_points": [
+    {
+      "title": "Ικανότητες:",
+      "listItems": [
+        "• Backend API Creation",
+        "• Services Integration",
+        "• Web Apps with modern stacks",
+        "• Setting up Databases for any use"
+      ]
+    },
+    {
+      "title": "Γλώσσες Προγραμματισμού που ξέρω:",
+      "listItems": [
+        "• C#",
+        "• Rust",
+        "• Javascript / Typescript",
+        "• C / C++",
+        "• Python",
+        "• Ruby",
+        "• Dart",
+        "• Ruby"
+      ]
+    },
+    {
+      "title": "Frameworks για εφαρμογές και ιστοσελίδες που ξέρω να χειρίζομαι:",
+      "listItems": [
+        "• React",
+        "• Vue 3",
+        "• Svelte",
+        "• Flutter",
+        "• TailwindCSS",
+        "• Dart"
+      ]
+    },
+    {
+      "title": "Τεχνολογίες και Εργαλεία που έχω χρησιμοποιήσει στο παρελθόν:",
+      "listItems": [
+        "• Postgresql, Sql Server, MariaDB",
+        "• Redis, MongoDB, CosmosDB",
+        "• Azure, AWS, Firebase",
+        "• .NET, EF και άλλες τεχνολογίες της Microsoft"
+      ]
+    }
+  ]
+}
