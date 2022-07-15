@@ -9,14 +9,14 @@
   "linkedIn_username": "dimkar3000",
   "stackoverflow_username": "dimitris-karagiannis",
   "profile_title": "profile",
-  "profile_content": "Out of the box thinking Software Engineer with experience in multiple technologies. Born in 1996 and loving technology since really young, I aim to learn evrything about technology and build some of my own on the way. Fresh out of university with some work experience so be kind to my resume.😂",
+  "profile_content": "Electrical and computer engineer(BSc & MEng). Passionate about computer science, with strong technical, business,and interpersonal skills for working in a team and successfully completing a project.",
   "emplyment_title": "Employment History",
   "emplyment_content": [
     {
-      "workTitle": "Final Year in Univarsity",
+      "workTitle": "University Graduation",
       "company": "National University of Athens (NTUA)",
       "from": "2019",
-      "to": "2020",
+      "to": "2021",
       "where": "Athens",
       "items": [
         "Spent more than a year working on my diploma theses. I created a fullstack aplications that used <strong>Mapbox</strong> to serve and display energy data that contained associated location information.",
